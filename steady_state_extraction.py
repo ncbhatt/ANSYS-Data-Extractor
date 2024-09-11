@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Aug  7 10:21:52 2024
-
-@author: 6204821
-"""
-
 from ansys.mapdl.reader import read_binary
 
 class SteadyStateExtractor:
