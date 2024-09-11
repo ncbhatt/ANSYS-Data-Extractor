@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 12 09:24:48 2024
-
-@author: 6204821
-"""
-
 import tkinter as tk
 from tkinter import filedialog, messagebox, simpledialog
 from tkinter.font import Font
