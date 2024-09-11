@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Aug  9 10:37:08 2024
-
-@author: 6204821
-"""
-
 from ansys.mapdl import reader as pymapdl_reader
 
 class StructuralAnalysisExtractor:
